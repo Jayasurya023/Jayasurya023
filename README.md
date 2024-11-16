@@ -2,8 +2,9 @@
 
 Welcome to my GitHub! I'm a **Data Analyst** and **Machine Learning Enthusiast** working on exciting projects related to **AI**, **Deep Learning**, and **Data Science**. Currently exploring various algorithms and building fun and useful applications! 🎉
 
-![Hello World GIF](https://media.giphy.com/media/3o6Zt9pAvjbUpqSNuA/giphy.gif)  
-*Here’s me in action with my cool projects!*
+<div align="center" style="border: 2px solid #000; display: inline-block; padding: 10px; background-color: #1a1a1a;">
+  <img src="https://github.com/Jayasurya023/Jayasurya023/blob/main/github%20profile.gif" alt="Data Science in Action" width="400">
+</div>
 
 ## 🌱 About Me
 
