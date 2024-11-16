@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jayasurya A! 🚀
+# 👋 Hello, I'm Jayasurya ! 🚀
 
 Welcome to my GitHub! I'm a **Data Analyst** and **Machine Learning Enthusiast** working on exciting projects related to **AI**, **Deep Learning**, and **Data Science**. Currently exploring various algorithms and building fun and useful applications! 🎉
 
