@@ -13,11 +13,16 @@ Welcome to my GitHub! I'm a **Data Analyst** and **Machine Learning Enthusiast**
 - 🏅 **Achievements**: Academic Excellence, SIRPI Award, and more!
 - 🌍 Currently working on cutting-edge projects in **AI**, **Data Science**, and **Computer Vision**.
 
-# Tools & Technologies 🛠️
+---
 
+## 🚀 Explore My Work  
+Feel free to explore my repositories to see my projects in **Data Science**, **Machine Learning**, and **AI**.  
+💡 I'm open to collaborations, so feel free to connect or contribute!  
+
+---
+
+## 🔧 Tools & Skills  
 Here are the tools and technologies I frequently use:
-
-# Tools & Technologies 🛠️
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL Logo" width="120" height="100">
@@ -31,28 +36,17 @@ Here are the tools and technologies I frequently use:
 <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Microsoft-Excel.svg" alt="Excel Logo" width="100" height="100">
 </p>
 
-
-
+---
 
 ## 🌍 Let's Connect
 
 - 📫 **Email**: jayasurya.itech@gmail.com
 - 💼 **LinkedIn**: [LinkedIn/Jayasurya](https://www.linkedin.com/in/jayasurya023)
-- 📷 Instagram: [@jayasuryaA](https://www.instagram.com/jaya._.surya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-## 📂 Current Focus
-
-I'm currently diving deeper into the world of **AI-powered healthcare solutions**, **real-time disease detection**, and **AI for agriculture**. Expect to see many fun and interesting projects coming your way! 🌟
-
-![Machine Learning GIF](https://media.giphy.com/media/3o7TKxv5xMwEFZ94pg/giphy.gif)
-
-## 📈 Stats
-
-![Jayasurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayasuryaA&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
-## 🎉 Fun Fact
-
-I’m always up for a challenge, be it in **Data Science**, **Coding**, or even solving a Rubik's Cube in under 2 minutes! 😎
+- 📷 **Instagram**: [@jayasuryaA](https://www.instagram.com/jaya._.surya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ---
 
-Let's create something awesome together! 🚀
+## 🎉 Fun Fact  
+When I'm not coding, you can find me **exploring nature** 🌳, **playing chess** ♟️, or **watching sci-fi movies** 🎥.  
+
+> *"The best way to predict the future is to create it."*  
