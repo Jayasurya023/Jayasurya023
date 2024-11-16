@@ -34,6 +34,7 @@ Here are the tools and technologies I frequently use:
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="100" height="100">
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI Logo" width="100" height="100">
 <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Microsoft-Excel.svg" alt="Excel Logo" width="100" height="100">
+
 </p>
 
 ---
